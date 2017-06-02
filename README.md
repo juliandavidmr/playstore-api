@@ -2,6 +2,8 @@
 
 # Playstore-api
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/juliandavidmr/playstore-api.svg)](https://greenkeeper.io/)
+
 Full api Play Store
 
 
